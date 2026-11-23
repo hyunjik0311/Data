@@ -1,3 +1,5 @@
+# 기본 이륙&회전
+
 import time
 import serial
 

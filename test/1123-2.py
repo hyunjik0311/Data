@@ -1,3 +1,4 @@
+# 이륙&시계방향으로 90도 회전
 import time
 import serial
 
