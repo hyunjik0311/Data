@@ -1,3 +1,5 @@
+# 앞뒤 이동
+
 import time
 import serial
 port = "COM5"
