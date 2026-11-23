@@ -33,7 +33,7 @@ if ser.readable():
     time.sleep(1)
 print("이륙 완료!")
 
-command01 = str.encode('cw 150 3000' + '\r')
+command01 = str.encode('cw 150 3000' + '\r') # 6000 더 오래 돈다
 ser.write(command01)
 time.sleep(3)
 if ser.readable():
